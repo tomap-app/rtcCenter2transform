@@ -32,7 +32,7 @@ Cesium3DTileset の
 
 ## 変換内容について
 
-glTF 1.0 で用いられていた、RTC_CENTER 拡張が、glTF 2.0 では、CESIUM界隈では機能しない仕様のようです。
+glTF 1.0 で用いられていた、RTC_CENTER 拡張が、glTF 2.0 では、Cesium 界隈では機能しない仕様のようです。（とはいえ Cesium ION では、glTF 2.0 with RTC_CENTER も表示されているようですが。。。）
 
 ですが、現状の PLATEAU 提供の 3D Tiles は glTF 2.0 で、RTC_CENTER 拡張が利用されているようです。
 
@@ -62,7 +62,7 @@ GeForce RTX 2080 Ti GAMING X TRIO (11GB)
 
 ## 作者から
 
-PLATEAU プロジェクトも Cesium for Unreal も生まれたてで、どんどん進化するため、この変換ツールはすぐに用済みとなる可能性があり、そうなることを望んでいます。
+PLATEAU プロジェクトも Cesium for Unreal も生まれたてで、どんどん進化するため、本家が対応していただくことで、この変換ツールはすぐに用済みとなる可能性があります。そして、そうなることを望んでいます。
 
 ## PLATEAU 3D Tiles
 
